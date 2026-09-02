@@ -6,3 +6,28 @@ Work done for UAS round 2 selection
 Read the material provided , setup python opencv and other requirements , practiced some basic python programs to get up and running
 
 8:55 PM : Opened MIT Open Course Ware after finishing the 6 chapters provided , also studying the Open CV documentation
+
+2/09/2-26
+
+Learned openCV functions : how to blur images, grayscale , threshold 
+Started main project
+
+Referred to : https://www.youtube.com/watch?v=kS-CGkiPetQ
+              https://www.youtube.com/watch?v=eDIj5LuIL4A
+              https://youtu.be/aFNDh5k3SjU?si=lfSG3lRGb3ETLE5q
+             
+Currently working on learning the polygon detection , mask making , color detection via Open CV
+
+Also , made the steps I will take to tackle the problem statement:
+# load image
+# convert colorspace from rgb to hsv
+# threshold
+# mask
+# hsv values of all injured
+# identify cords of center of these polygons
+# hierarchy these cords according to score
+# chart path using mask and score
+
+
+
+

@@ -28,6 +28,10 @@ Also , made the steps I will take to tackle the problem statement:
 # hierarchy these cords according to score
 # chart path using mask and score
 
+2-09-2026 : I have finally generated masks onto to the hsv of injured
+example : <img width="1277" height="750" alt="image" src="https://github.com/user-attachments/assets/2232843f-2f95-4388-b913-c2ff797520cc" />
+
+
 
 
 

@@ -31,7 +31,11 @@ Also , made the steps I will take to tackle the problem statement:
 2-09-2026 : I have finally generated masks onto to the hsv of injured
 example : <img width="1277" height="750" alt="image" src="https://github.com/user-attachments/assets/2232843f-2f95-4388-b913-c2ff797520cc" />
 
+3-09-2026: Working on polygon detection and simultaneous colour detection
 
-
-
+Resources currently using   : https://stackoverflow.com/questions/34203311/detect-star-shape-in-opencv-python
+                              https://learnopencv.com/contour-detection-using-opencv-python-c/
+                              https://stackoverflow.com/questions/40203932/drawing-a-rectangle-around-all-contours-in-opencv-python
+                              https://stackoverflow.com/questions/20912948/color-detection-using-opencv-python?rq=4
+                              https://stackoverflow.com/questions/59442860/how-can-i-make-certain-pixels-transparent-in-opencv
 

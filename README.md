@@ -42,3 +42,14 @@ Resources currently using   : https://stackoverflow.com/questions/34203311/detec
 
 Referring to:
 https://medium.com/@sardorabdirayimov/colors-detection-using-masks-contours-in-opencv-72d127f0797e
+
+Issues tackled : Priority Score , Polygon Detection , Printing 1 Table of output
+Issues left: Actual path drawing(most imp) , Elevation calculation(basic idea implemented but need refinement as it is outputting 0 instead of a value)
+Time and Distance table/score calculation , proper image input and output CLI (currently I have to modify the code to add images and in future I have an idea to make a folder that saves all images made)
+
+Need to sift through: https://docs.python.org/3/library/os.html#module-os , https://docs.python.org/3/library/pathlib.html#module-pathlib
+I watched a tutorial video where they used these two libraries to get filenames and store them , I did a basic checking of this earlier 
+
+
+<img width="1386" height="966" alt="image" src="https://github.com/user-attachments/assets/e72d479c-75b7-4b0f-b98b-b58fd380d076" />
+Current image progress

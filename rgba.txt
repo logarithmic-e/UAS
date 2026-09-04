@@ -1,0 +1,24 @@
+		rgba
+1)
+water color :(93 , 23 , 235)
+green:	     (84,215,0)
+dark_g: (97,194,55)
+darker_g: (76,137,0)
+darkest_g: (47,82,0)
+red: (255,1,24)
+white and black are perfect values
+orange: (255,116,31)
+yellow: (255,222,89)
+purple: (203,107,230)
+
+2) 
+red : (255,0,24)
+yellow: (255,219,89)
+
+
+hsb
+blue : 260 , 90%,92%
+black : 0,0 ,0
+
+
+check if shape is concave or convex

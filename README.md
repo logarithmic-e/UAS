@@ -38,4 +38,7 @@ Resources currently using   : https://stackoverflow.com/questions/34203311/detec
                               https://stackoverflow.com/questions/40203932/drawing-a-rectangle-around-all-contours-in-opencv-python
                               https://stackoverflow.com/questions/20912948/color-detection-using-opencv-python?rq=4
                               https://stackoverflow.com/questions/59442860/how-can-i-make-certain-pixels-transparent-in-opencv
+4/09/2026
 
+Referring to:
+https://medium.com/@sardorabdirayimov/colors-detection-using-masks-contours-in-opencv-72d127f0797e

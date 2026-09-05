@@ -178,12 +178,12 @@ def elevation_detect(x, y):
     height, width = level2_mask.shape
     if x < 0 or y < 0 or x >= width or y >= height:
         return elevation_dict["ground"]
-
-    if level2_mask[y, x] > 0:
+    
+    if level2_mask[y+45, x+45] > 0:
         elevation = "peak"
-    elif level1_mask[y, x] > 0:
+    elif level1_mask[y+45, x+45] > 0:
         elevation = "slope"
-    elif level0_mask[y, x] > 0:
+    elif level0_mask[y+45, x+45] > 0:
         elevation = "ground"
     else:
         elevation = "ground"
@@ -315,7 +315,7 @@ for cnt in contours:
 
 
 
-
+distance = 0
 
 
 
@@ -351,6 +351,8 @@ if end_point:
 for i in range(counter - 1):
     pt1 = path[i]
     pt2 = path[i + 1]
+
+    
     print ("start:" + str(pt1) + " " + "end:" + str(pt2))
     cv.line(annotated_img, pt1, pt2, (0, 0, 0), 2, cv.LINE_AA)
 

@@ -59,6 +59,16 @@ Current image progress
 
 I will be adding a word file I made today that is basically this readme only but properly formatted with zero grammatical errors for refrence 
 
-Progress till now:
+According to me this can be considered as an enlarged maze or a maze with invisible walls, so I tried to understand how pathing works in mazes.
+The solutions involved an algorithm known as A* and its derivatives based on need, I tried to implement this but I couldn’t understand how to divide the image into separate nodes
+
+For elevation, my masks are also not accurate due to some values of green overlapping 
+The pathing currently goes from highest priority to least priority but it cuts into the pixels deemed non-traversable in the mask
+
+I also didn’t understand how to rank the files based on the path score.
+References:
+https://stackoverflow.com/questions/12995434/representing-and-solving-a-maze-given-an-image
+https://www.youtube.com/watch?v=kS-CGkiPetQ
+
 
 <img width="1278" height="751" alt="image" src="https://github.com/user-attachments/assets/d2d68428-4511-455a-8969-6c2e3e2ae900" />

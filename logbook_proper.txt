@@ -1,0 +1,49 @@
+Learnings attained through this project/practical test:
+I usually program in C and this project was a steep learning curve for me. I actually didn’t know python that much. The prior knowledge I had of python constituted of how to print hello world and some basic dictionaries so this was a fun challenge for me.
+
+1/09/2026:
+Based on the materials provided, I learnt:
+How to make basic python programs
+What are loops in python
+Installation of OpenCV and NumPY
+Additionally, I was also viewing some lectures of an MIT OpenCW for help
+
+2/09/2026:
+* Learned basic functions of OpenCV such how to open images, how to save them
+* Learned the pathlib library to get filenames from a path
+* Learned how to blur, convert colorspace(cvtcolor), thresholds, masks etc. and how they can be used to detect polygons using the arclength, vertices and approxpolydp ()
+References:
+https://www.youtube.com/watch?v=kS-CGkiPetQ 
+https://www.youtube.com/watch?v=eDIj5LuIL4A 
+https://youtu.be/aFNDh5k3SjU?si=lfSG3lRGb3ETLE5q
+ 3/09/2026:
+* Learned HSV, masking and contour detection
+* Till now I only knew that pixels are essentially bits but I actually did bitwise manipulation this time by making 2 masks and doing a bitwise and to add them both
+I still couldn’t predict/check the polygon color or masks
+
+References:
+https://stackoverflow.com/questions/34203311/detect-star-shape-in-opencv-python 
+https://learnopencv.com/contour-detection-using-opencv-python-c/
+https://stackoverflow.com/questions/40203932/drawing-a-rectangle-around-all-contours-in-opencv-python 
+https://stackoverflow.com/questions/20912948/color-detection-using-opencv-python?rq=4 
+4/09/2026
+I made masks of multiple colors, still I couldn’t get the polygons till it clicked me to use an eXclusive OR or XOR in masks and that fixed my issue
+
+Since I had made masks of each color, whose values (both lower and upper bound) were checked by me by opening in photoshop, I was also able to get the colors
+References:
+https://medium.com/@sardorabdirayimov/colors-detection-using-masks-contours-in-opencv-72d127f0797e
+5/09/2026
+
+According to me this can be considered as an enlarged maze or a maze with invisible walls, so I tried to understand how pathing works in mazes.
+The solutions involved an algorithm known as A* and its derivatives based on need, I tried to implement this but I couldn’t understand how to divide the image into separate nodes
+
+For elevation, my masks are also not accurate due to some values of green overlapping 
+The pathing currently goes from highest priority to least priority but it cuts into the pixels deemed non-traversable in the mask
+
+I also didn’t understand how to rank the files based on the path score.
+References:
+https://stackoverflow.com/questions/12995434/representing-and-solving-a-maze-given-an-image
+https://www.youtube.com/watch?v=kS-CGkiPetQ
+
+
+

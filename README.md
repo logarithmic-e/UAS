@@ -72,3 +72,12 @@ https://www.youtube.com/watch?v=kS-CGkiPetQ
 
 
 <img width="1278" height="751" alt="image" src="https://github.com/user-attachments/assets/d2d68428-4511-455a-8969-6c2e3e2ae900" />
+
+
+I also viewed some youtube videos between days hence adding them here:
+https://www.youtube.com/watch?v=eDIj5LuIL4A&t=7119s
+https://www.youtube.com/watch?v=aFNDh5k3SjU
+https://www.youtube.com/watch?v=FKIn_UIsXy4
+https://youtu.be/FbR9Xr0TVdY?si=dTV_dbSrR55Ea1G_
+https://youtu.be/Wl11eloYVm8?si=OMvENCLlPmVLLDVM
+https://youtu.be/ghV74g06OF8?si=FbWFofnujQxitH29

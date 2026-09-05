@@ -53,3 +53,12 @@ I watched a tutorial video where they used these two libraries to get filenames 
 
 <img width="1386" height="966" alt="image" src="https://github.com/user-attachments/assets/e72d479c-75b7-4b0f-b98b-b58fd380d076" />
 Current image progress
+
+
+5-09-2026
+
+I will be adding a word file I made today that is basically this readme only but properly formatted with zero grammatical errors for refrence 
+
+Progress till now:
+
+<img width="1278" height="751" alt="image" src="https://github.com/user-attachments/assets/d2d68428-4511-455a-8969-6c2e3e2ae900" />
